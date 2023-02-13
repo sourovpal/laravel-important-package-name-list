@@ -3,5 +3,6 @@
 3. https://github.com/barryvdh/laravel-debugbar
 4. https://spatie.be/docs/laravel-permission/v5/introduction
 5. https://yajrabox.com/docs/laravel-datatables/10.0/installation
-6. 
-7. 
+6. https://github.com/rashidlaasri/LaravelInstaller
+7. https://spatie.be/docs/laravel-backup/v8/installation-and-setup
+8. 
